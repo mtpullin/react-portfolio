@@ -3,17 +3,17 @@ import React from 'react'
 function Header() { 
 return (
     <header className="flex-row px-1">
-        <h2>
+        <h1>
             <a href="/">
                 <span>Mitchell Pullin</span>   
             </a>
-        </h2>
+        </h1>
         <nav>
         <ul>
             <li>
-                <a href="#about">
-                    About me
-                </a>
+                <a href="#about" className="header">About me</a>
+                <a href="#project" className="header"> Projects</a>
+                <a href= "#Contact" className="header">Contact</a>
             </li>
         </ul>
     </nav>
