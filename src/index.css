@@ -45,6 +45,10 @@ body {
   justify-content: center;
   
 }
+.header{
+  display: flex;
+  align-items: stretch ;
+}
 a:hover{
   color: var(--secondary);
   text-decoration: underline;

@@ -1,22 +1,33 @@
 import React from 'react'
 
-function Header() { 
-return (
-    <header className="flex-row px-1">
+function Header(props) { 
+const tabs= ['About', 'Projects', 'Contact']
+    return (
+    <header className="px-1 flex-row">
         <h1>
             <a href="/">
                 <span>Mitchell Pullin</span>   
             </a>
         </h1>
-        <nav>
-        <ul>
-            <li>
-                <a href="#about" className="header">About me</a>
-                <a href="#project" className="header"> Projects</a>
-                <a href= "#Contact" className="header">Contact</a>
-            </li>
-        </ul>
-    </nav>
+        <ul className="header">
+      {tabs.map(tab => (
+       
+        <li key={tab}>
+          <a
+            href={'#' + tab.toLowerCase()}
+            // Whenever a tab is clicked on,
+            // the current page is set through the handlePageChange props.
+            onClick={() => props.handlePageChange(tab)}
+            className={
+              props.currentPage === tab ? 'nav-link active' : 'nav-link'
+            }
+          >
+            {tab}
+          </a>
+        </li>
+    
+      ))}
+    </ul>
     </header>
 )
 }
