@@ -5,7 +5,7 @@ const tabs= ['About', 'Projects', 'Resume' ,'Contact']
     return (
     <header className="px-1 flex-row">
         <h1>
-            <a href="/">
+            <a href="">
                 <span>Mitchell Pullin</span>   
             </a>
         </h1>
