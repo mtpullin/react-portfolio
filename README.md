@@ -5,17 +5,10 @@
   ### [Installation](#installation)
   ### [Usage](#usage)
   ### [License](#license)
-  ### [Credits](#credits)
-  ### [Tests](#tests)
   ### [Questions](#questions)
 
   ## Description
-  newly created portfolio using new react knowledge 
-
-  ## Installation
-   
-
-  ## Credits
+  newly created portfolio using new react knowledge
    
 
   ## License
@@ -27,6 +20,10 @@
 
   ## Usage
   used to hopefully give possible employers a look at previous projects and who I am 
+  ![image](https://user-images.githubusercontent.com/82049270/132266385-90f664be-d262-475c-8f03-4c22c4035994.png)
+  
+  
+  ![image](https://user-images.githubusercontent.com/82049270/132266393-fb541691-2053-47c0-ae74-23666add5893.png)
 
   ## Questions
   
