@@ -45,6 +45,25 @@ body {
   justify-content: center;
   
 }
+.projects{
+  display: flex;
+  flex-direction: column;
+}
+.projects>*{
+  flex: 1 1 70px;
+}
+.project-img{
+  width: 350px;
+  max-height: 150px;
+  border-radius: 20px;
+}
+.project-img:hover{
+  background: var(--tertiary);
+  border: 2px solid var(--tertiary);
+  border-radius: 20px;
+  border-color: var(--tertiary);
+  filter: brightness(110%);
+}
 .header{
   display: flex;
   align-items: stretch ;

@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Header(props) { 
-const tabs= ['About', 'Projects', 'Contact']
+const tabs= ['About', 'Projects', 'Resume' ,'Contact']
     return (
     <header className="px-1 flex-row">
         <h1>
