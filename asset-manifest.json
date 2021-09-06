@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.36b410fb.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.2b101508.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.2b101508.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.890351e3.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.890351e3.js.map",
+    "static/js/2.e1a2e483.chunk.js": "/react-portfolio/static/js/2.e1a2e483.chunk.js",
+    "static/js/2.e1a2e483.chunk.js.map": "/react-portfolio/static/js/2.e1a2e483.chunk.js.map",
+    "static/js/3.880e07b3.chunk.js": "/react-portfolio/static/js/3.880e07b3.chunk.js",
+    "static/js/3.880e07b3.chunk.js.map": "/react-portfolio/static/js/3.880e07b3.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.36b410fb.chunk.css.map": "/react-portfolio/static/css/main.36b410fb.chunk.css.map",
+    "static/js/2.e1a2e483.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e1a2e483.chunk.js.LICENSE.txt",
+    "static/media/Pizza.f515906b.jpg": "/react-portfolio/static/media/Pizza.f515906b.jpg",
+    "static/media/budget.8ecbd2b5.jpg": "/react-portfolio/static/media/budget.8ecbd2b5.jpg",
+    "static/media/me.71e7511e.jpg": "/react-portfolio/static/media/me.71e7511e.jpg",
+    "static/media/notes.e9b9a4f8.jpg": "/react-portfolio/static/media/notes.e9b9a4f8.jpg",
+    "static/media/potluck.3e2a729e.jpg": "/react-portfolio/static/media/potluck.3e2a729e.jpg",
+    "static/media/techblog.5591a462.jpg": "/react-portfolio/static/media/techblog.5591a462.jpg",
+    "static/media/zoo.9147d504.jpg": "/react-portfolio/static/media/zoo.9147d504.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.890351e3.js",
+    "static/js/2.e1a2e483.chunk.js",
+    "static/css/main.36b410fb.chunk.css",
+    "static/js/main.2b101508.chunk.js"
+  ]
+}
