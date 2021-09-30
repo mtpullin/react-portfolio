@@ -47,11 +47,11 @@ function ProjectList() {
             <a href= "https://github.com/mtpullin/zookeepr" target="_blank"rel="noreferrer">Github Repo</a>
             </li>
             <li>
-                <h3>Note Taker</h3>
-            <a href="https://vast-river-28185.herokuapp.com/" target="_blank" rel="noreferrer"><img className="project-img" src={notes} alt="Notebook"/></a>
+                <h3>Flat Earth Society</h3>
+            <a href="https://flat-earther-space.herokuapp.com" target="_blank" rel="noreferrer"><img className="project-img" src={notes} alt="Notebook"/></a>
             </li>
             <li>
-            <a href= "https://github.com/mtpullin/note-taker" target="_blank"rel="noreferrer">Github Repo</a>
+            <a href= "https://github.com/tannerlsmith/flat-earth-society" target="_blank"rel="noreferrer">Github Repo</a>
             </li>
             </ul>
         </ul>
