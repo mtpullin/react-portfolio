@@ -2,7 +2,7 @@ import React from 'react'
 import budget from '../../assets/budget.jpg'
 import pizza from '../../assets/Pizza.jpg'
 import potluck from '../../assets/potluck.jpg'
-import notes from '../../assets/notes.jpg'
+import flatearth from '../../assets/flatearth.jpg'
 import zoo from '../../assets/zoo.jpg'
 import techBlog from '../../assets/techblog.jpg'
 function ProjectList() {
@@ -48,7 +48,7 @@ function ProjectList() {
             </li>
             <li>
                 <h3>Flat Earth Society</h3>
-            <a href="https://flat-earther-space.herokuapp.com" target="_blank" rel="noreferrer"><img className="project-img" src={notes} alt="Notebook"/></a>
+            <a href="https://flat-earther-space.herokuapp.com" target="_blank" rel="noreferrer"><img className="project-img" src={flatearth} alt="FlatEarth"/></a>
             </li>
             <li>
             <a href= "https://github.com/tannerlsmith/flat-earth-society" target="_blank"rel="noreferrer">Github Repo</a>
