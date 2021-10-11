@@ -22,7 +22,7 @@
  HTML
 
   ## Usage
-  used to hopefully give possible employers a look at previous projects and who I am 
+  used to give possible employers a look at previous projects and who I am 
   ![image](https://user-images.githubusercontent.com/82049270/132266385-90f664be-d262-475c-8f03-4c22c4035994.png)
   
   
