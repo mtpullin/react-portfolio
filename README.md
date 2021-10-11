@@ -9,7 +9,8 @@
 
   ## Description
   newly created portfolio using new react knowledge
-   website: https://mtpullin.github.io/react-portfolio/
+  
+  website: https://mtpullin.github.io/react-portfolio/
 
   ## License
   MIT 
