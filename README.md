@@ -16,8 +16,10 @@
   MIT 
   ![badge](https://img.shields.io/badge/license-MIT-red)
   
-  ## Tests
-  undefined
+ ## Technology
+ React
+ CSS
+ HTML
 
   ## Usage
   used to hopefully give possible employers a look at previous projects and who I am 
